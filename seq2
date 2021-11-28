@@ -1,0 +1,22 @@
+> 
+GCCATTTGTCCATCAGCGCCTCAGAGGAATGAGGTATATCTAGCGTGTGGGACTCCCACACGGATGAACATGCCTTATTGCCCCGGGCAACCAGGAGCACATAAAACTCTAGTTCGGGCGCGCTGTCTACTGCCTAGCAATGGAGGCCCCCTGTGCTACTTGAATAGAGTTTCGTACCTCGGACTCCATTTTGTAATCCTCCCGCGCGGAGAGTAAACATTACCCGAGTTTTGTAGCGTATAGGATCCTTTCCGCAAACAAGATCACTCAGGGATTTCTGACCAGGAGAAGCCGAGCCAG
+--------------------------------------------------------------
+----------------------- Fréquences de bases -------------------------- 
+Le nombre d'apparaition de : 'A' : - 73 -
+Le nombre d'apparaition de : 'T' : - 70 -
+Le nombre d'apparaition de : 'C' : - 82 -
+Le nombre d'apparaition de : 'G' : - 75 -
+ ------------------------------------------------ 
+----------------------- ARN -------------------------- 
+GCCAUUUGUCCAUCAGCGCCUCAGAGGAAUGAGGUAUAUCUAGCGUGUGGGACUCCCACACGGAUGAACAUGCCUUAUUGCCCCGGGCAACCAGGAGCACAUAAAACUCUAGUUCGGGCGCGCUGUCUACUGCCUAGCAAUGGAGGCCCCCUGUGCUACUUGAAUAGAGUUUCGUACCUCGGACUCCAUUUUGUAAUCCUCCCGCGCGGAGAGUAAACAUUACCCGAGUUUUGUAGCGUAUAGGAUCCUUUCCGCAAACAAGAUCACUCAGGGAUUUCUGACCAGGAGAAGCCGAGCCAG
+ ------------------------------------------------ 
+----------------------- Complement reverse -------------------------- 
+CTGGCTCGGCTTCTCCTGGTCAGAAATCCCTGAGTGATCTTGTTTGCGGAAAGGATCCTATACGCTACAAAACTCGGGTAATGTTTACTCTCCGCGCGGGAGGATTACAAAATGGAGTCCGAGGTACGAAACTCTATTCAAGTAGCACAGGGGGCCTCCATTGCTAGGCAGTAGACAGCGCGCCCGAACTAGAGTTTTATGTGCTCCTGGTTGCCCGGGGCAATAAGGCATGTTCATCCGTGTGGGAGTCCCACACGCTAGATATACCTCATTCCTCTGAGGCGCTGATGGACAAATGGC
+ ------------------------------------------------ 
+----------------------- Taux de G=C -------------------------- 
+Taux G=C : 52.333333333333336 %
+ ----------------------------------------------------------- 
+---------- Les fréquences des codons ---------
+============================================================================================================================================================================================================================================================================================================================================================================================================================================================================| GCC | ATT | TGT | CCA | TCA | GCG | CCT | CAG | AGG | AAT | GAG | GTA | TAT | CTA | GGG | ACT | CCC | ACA | CGG | ATG | AAC | TGC | CAA | GGA | GCA | CAT | AAA | GTT | CGC | CTG | AGC | GGC | TAC | TTG | AGA | TCG | CTC | CTC | TTT | ATC | CCG | TAA | TTA | TAG | GAT | TTC | CAC | TCT | GAC |============================================================================================================================================================================================================================================================================================================================================================================================================================================================================|  1  |  2  |  4  |  2  |  2  |  3  |  4  |  3  |  1  |  3  |  4  |  3  |  2  |  3  |  3  |  2  |  4  |  2  |  2  |  2  |  1  |  2  |  2  |  4  |  1  |  2  |  2  |  2  |  3  |  2  |  3  |  1  |  2  |  1  |  1  |  1  |  2  |  1  |  2  |  1  |  2  |  1  |  1  |  1  |  2  |  1  |  1  |  1  |  1  |============================================================================================================================================================================================================================================================================================================================================================================================================================================================================----------------------- Masse protéique -------------------------- 
+masse protéique = 8870.142460000006
+ ------------------------------------------------------- 
